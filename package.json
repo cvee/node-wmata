@@ -1,0 +1,28 @@
+{
+    "name": "node-wmata",
+    "version": "1.0.0",
+    "description": "A node.js module for interacting with the Washington Metropolitan Area Transit Authority API.",
+    "keywords": ["wmata"],
+    "bugs": {
+        "url": "https://github.com/cvee/node-wmata/issues"
+    },
+    "author": "Chris Verwymeren <cvee@me.com> (https://www.twitter.com/cvee)",
+    "contributors": [],
+    "main": "./lib/WMATA",
+    "directories": {
+        "doc": "./doc",
+        "example": "./examples",
+        "lib": "./lib"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/cvee/node-wmata.git"
+    },
+    "dependencies": {
+        "request": "2.9.x"
+    },
+    "engines": {
+        "node": "0.6.x"
+    },
+    "licenses": [{"type": "BSD 3-Clause License", "url": "http://www.opensource.org/licenses/BSD-3-Clause"}]
+}
