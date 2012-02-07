@@ -2,6 +2,6 @@
 
 ## Version 1.0.0
 
-*Published on 2012-01-15*
+*Published on 2012-02-06*
 
 * Initial release.
